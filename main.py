@@ -33,3 +33,5 @@ menor, maior = obter_extremos(dados)
 print ( f" Dados processados : { dados }")
 print(f"Extremo menor: {menor} ")
 print(f"Extremo maior: {maior} ")
+
+print ("Verificado por : Gustavo(owner)")
